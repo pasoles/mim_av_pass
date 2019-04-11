@@ -1,0 +1,13 @@
+780525 BYTE data[]
+780830 ConverSidToStringSid 
+818360 kati sxolia
+....
+987500 CRYPT32.dll
+
+
+
+
+DLL
+987205
+988655
+989805

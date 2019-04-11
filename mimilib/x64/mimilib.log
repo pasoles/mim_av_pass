@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+  kuhl_m_sekurlsa_utils.c
+     Creating library C:\Users\Admin\Desktop\Tests\mimikatz-eset\x64\mimilib.lib and object C:\Users\Admin\Desktop\Tests\mimikatz-eset\x64\mimilib.exp
+  Generating code
+  Finished generating code
+  mimilib.vcxproj -> C:\Users\Admin\Desktop\Tests\mimikatz-eset\x64\mimilib.dll

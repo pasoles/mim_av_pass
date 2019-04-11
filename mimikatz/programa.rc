@@ -1,0 +1,36 @@
+#include <winres.h>
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+
+VS_VERSION_INFO VERSIONINFO
+
+FILEVERSION			2,2,0,0
+PRODUCTVERSION		2,2,0,0
+FILEFLAGS			VS_FF_PRERELEASE|VS_FF_SPECIALBUILD|VS_FF_PRIVATEBUILD
+FILEFLAGSMASK		VS_FFI_FILEFLAGSMASK
+FILEOS				VOS_NT
+FILETYPE			VFT_APP
+//FILESUBTYPE 0x0L
+BEGIN
+BLOCK "StringFileInfo"
+	BEGIN
+		BLOCK "040904b0"
+		BEGIN
+			VALUE "skata", "programa"
+			VALUE "ProductVersion", "1.0"
+			VALUE "CompanyName", "poutsa"
+			VALUE "FileDescription", "gamiesai"
+			VALUE "FileVersion", "1.1"
+			VALUE "InternalName", "programa"
+			VALUE "LegalCopyright", "Copyright (c) 2019-2020 o ths manas sas"
+			VALUE "OriginalFilename", "programa.exe"
+			VALUE "PrivateBuild", "fate poutsa"
+			VALUE "SpecialBuild", "arxidia"
+		END
+	END
+	BLOCK "VarFileInfo"
+	BEGIN
+		VALUE "Translation", 0x0409, 1200
+	END
+END
+
+100	ICON	"programa.ico"
